@@ -19,5 +19,11 @@ Hands-on workshop
 
 
 ## Links
-1. Article:  [Containerize And Deploy An Application To Kubernetes](https://medium.com/@kadimasam/containerize-and-deploy-an-application-to-kubernetes-0fb0ce188da9)
-2. Connect with me: [LinkedIn](https://www.linkedin.com/in/kadima-samuel-804103bb/)
+
+### Articles
+1. [Containerize And Deploy An Application To Kubernetes](https://medium.com/@kadimasam/containerize-and-deploy-an-application-to-kubernetes-0fb0ce188da9)
+2. [Kubernetes Control Plane And Node Components](https://medium.com/@kadimasam/kubernetes-introduction-control-plane-and-node-components-3e2116505cde)
+3. [Kubectl](https://medium.com/@kadimasam/kubernetes-kubectl-6d6aabcf6f72)
+
+### Social
+Connect with me: [LinkedIn](https://www.linkedin.com/in/kadima-samuel-804103bb/)
